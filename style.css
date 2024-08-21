@@ -1,0 +1,47 @@
+body{ 
+    background-color: rgb(203, 209, 231);
+    /*  define a cor do fundo do elemento */
+    width: 100%;
+    /*  define a largura do elemento */
+    margin: auto;
+    /* define as margens do elemento */
+    text-align: center;
+    /*  define o alinhamento do conteúdo de texto dentro do elemento */
+
+    /* é usada para criar um layout que fique no centro e visualmente bonito */
+
+}
+
+h1{
+  margin-bottom: 2%;
+/*  define a margem inferior do elemento <h1> */
+
+}
+
+.preparo{
+    color:rgb(255, 124, 124)
+/* a propriedade color define a cor do texto do elemento */
+
+}
+
+ul{
+
+    text-align: justify;
+    /* Colocam o conteudo no centro da tela */
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    /* Muda a largura do elemento */
+    width: 30%;
+}
+
+img{
+    margin-top: 3%;
+    /* define a margem superior do elemento */
+    /* define a curvatura das bordas da foto */
+    border-radius: 70px;
+    /*elas sao usadas para adicionar espaço e suavizar a aparencia visual */
+   
+
+
+}
